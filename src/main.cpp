@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "project/bst.h"
+#include "../include/project/bst.h"
 
 int main() {
     BST tree;
